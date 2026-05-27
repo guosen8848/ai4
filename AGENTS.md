@@ -64,7 +64,7 @@
 通过后开始第三步
 
 ### 第三步：制定更新计划
-在最小功能通过后，加载`skills/update-plan-review.md`处理，生成开发文档
+在最小功能通过后，加载`skills/update-plan-review/update-plan-review.md`处理，生成开发文档
 
 ### 第四步：根据文档进行开发
 调用`/superpowers:test-driven-development`，进行TDD开发，将变更同步至ARCHITECTURE.md，SCHEDULE.md
